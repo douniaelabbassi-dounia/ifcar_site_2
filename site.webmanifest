@@ -1,0 +1,13 @@
+{
+  "name": "IFCAR Solutions",
+  "short_name": "IFCAR",
+  "description": "Cabinet de conseil RH : recrutement, formation, conseil et accompagnement individuel.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#070b12",
+  "icons": [
+    { "src": "assets/img/favicon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
